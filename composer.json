@@ -1,0 +1,8 @@
+{
+  "name": "iortz/docksal",
+  "type": "git",
+  "description": "Docksal development environment",
+  "license": "",
+  "minimum-stability": "dev",
+  "prefer-stable": true
+} 
